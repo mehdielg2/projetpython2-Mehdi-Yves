@@ -1,0 +1,11 @@
+city,lat,lon,weather_score,temperature,humidity,wind_speed,conditions
+Paris,48.8588897,2.3200410217200766,5.08,13.6,85,2.1,couvert
+Marseille,43.2961743,5.3699525,7.74,14.7,59,3.1,couvert
+Lyon,45.7578137,4.8320114,2.85,11.3,88,3.4,couvert
+Toulouse,43.6044622,1.4442469,3.54,13.0,94,2.1,très forte pluie
+Nice,43.7009358,7.2683912,4.6,10.9,46,7.7,ciel dégagé
+Nantes,47.2186371,-1.5541362,4.6,14.1,94,2.1,ciel dégagé
+Strasbourg,48.584614,7.7507127,3.97,4.0,100,1.0,brouillard
+Montpellier,43.6112422,3.8767337,0.6,11.7,94,6.7,couvert
+Bordeaux,44.841225,-0.5800364,5.26,14.2,94,1.5,légère pluie
+Lille,50.6365654,3.0635282,3.2,11.8,82,3.6,ciel dégagé

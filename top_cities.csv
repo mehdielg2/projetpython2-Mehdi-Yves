@@ -1,0 +1,6 @@
+city,lat,lon,weather_score,temperature,humidity,wind_speed,conditions
+Marseille,43.2961743,5.3699525,7.74,14.7,59,3.1,couvert
+Bordeaux,44.841225,-0.5800364,5.26,14.2,94,1.5,légère pluie
+Paris,48.8588897,2.3200410217200766,5.08,13.6,85,2.1,couvert
+Nantes,47.2186371,-1.5541362,4.6,14.1,94,2.1,ciel dégagé
+Nice,43.7009358,7.2683912,4.6,10.9,46,7.7,ciel dégagé
